@@ -1,0 +1,11 @@
+{
+  "name": "flowpilot-ai",
+  "version": "0.1.0",
+  "private": true,
+  "description": "AI-powered workflow automation engine.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "check": "node --check src/core/index.js"
+  }
+}
